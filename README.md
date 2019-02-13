@@ -10,8 +10,4 @@ The display() function outputs the values plotted on the graph to the console
 
 The functions – initializeGraph() and generateGraph() are used to create a new excel workbook and draw the bar chart
 
-In order to make the application fully functional, you will need the following resources:
-
-EXCEL.EXE 
-MSO.DLL
-VBE6EXT.OLB 
+In order to make the application fully functional, you will need the following resources: EXCEL.EXE, MSO.DLL, and VBE6EXT.OLB 
